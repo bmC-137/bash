@@ -1,3 +1,3 @@
-###### How to sort in terminal 
+###### How to sort by name in terminal
 
 ``ls -1 | sort -V``

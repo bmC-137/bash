@@ -1,3 +1,0 @@
-xdg-icon-resource install --size 128 --context emblems archuser-example.png # add as emblem
-
-xdg-icon-resource install --size 128 archuser-example.png # add as normal icon
